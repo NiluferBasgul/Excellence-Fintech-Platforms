@@ -23,6 +23,8 @@ Version: 1.0 | Target: .NET/Azure | Compliance: GDPR, PSD2, DORA, EU AI Act
 - [ ] API Gateway (Azure API Management)
 - [ ] Dapr for microservices runtime (state management, pub/sub, service-to-service calls)
 
+![FAEF Reference Architecture](image.png)
+
 **Key Pattern:** Each financial domain (Portfolio, Trading, Compliance, Risk) = separate microservice
 
 ---
