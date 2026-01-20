@@ -189,26 +189,6 @@ Version: 1.0 | Target: .NET/Azure | Compliance: GDPR, PSD2, DORA, EU AI Act
 
 ---
 
-## 💰 Estimated Azure Costs (EU West Region)
-
-### **Development Environment**
-- AKS (3 nodes, D4s_v3): ~€300/month
-- Azure SQL (S2): ~€100/month
-- Application Insights: ~€50/month
-- **Total: €500-800/month**
-
-### **Production Environment**
-- AKS (10 nodes, D8s_v3): ~€2,000/month
-- Azure Synapse (DW400c): ~€1,500/month
-- Cosmos DB (10K RU/s): ~€500/month
-- Redis Premium: ~€300/month
-- **Total: €5,000-8,000/month**
-
-### **Enterprise (Multi-Region, HA)**
-- **Total: €15,000-25,000/month**
-
----
-
 ## 📋 EU Compliance Matrix
 
 | Regulation | Key Requirements | Azure Implementation |
